@@ -1,6 +1,6 @@
 ## Node with Ts with Expressjs
 
-![image](./images/express+Ts.png)
+![image](../images/express+Ts.png)
 
 Setting node js server with Typescript
 
